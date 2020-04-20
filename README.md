@@ -1,24 +1,6 @@
-# beans-h5
+# Beans H5 可视化生成
 
-## Project setup
-```
-yarn install
-```
+> 一款全前端技术栈的H5可视化生成系统
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 前言
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
